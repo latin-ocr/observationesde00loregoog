@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./observationesde00loregoog/observationesde00loregoog_0063.png"; bbox 0 0 2850 4784; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 326 2214 1034 2268">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 326 2214 1034 2268">
+     <span class='ocr_line' id='line_1_1' title="bbox 326 2214 1034 2268; baseline 0.003 -8"><span class='ocrx_word' id='word_1_1' title='bbox 326 2217 408 2261; x_wconf 77' lang='lat' dir='ltr'>Druck</span> <span class='ocrx_word' id='word_1_2' title='bbox 422 2229 469 2261; x_wconf 83' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_3' title='bbox 485 2216 511 2259; x_wconf 75' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_4' title='bbox 529 2217 596 2260; x_wconf 72' lang='lat' dir='ltr'>Zahn</span> <span class='ocrx_word' id='word_1_5' title='bbox 612 2214 631 2260; x_wconf 67' lang='grc' dir='ltr'>δι</span> <span class='ocrx_word' id='word_1_6' title='bbox 646 2217 676 2261; x_wconf 82' lang='grc' dir='ltr'>Η.</span> <span class='ocrx_word' id='word_1_7' title='bbox 691 2217 805 2268; x_wconf 70' lang='lat' dir='ltr'>Baendel.</span> <span class='ocrx_word' id='word_1_8' title='bbox 821 2217 952 2262; x_wconf 76' lang='lat' dir='ltr'>Kirehhnin</span> <span class='ocrx_word' id='word_1_9' title='bbox 967 2218 1034 2263; x_wconf 56' lang='lat' dir='ltr'>Nat..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1430 4784">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1430 4784">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1430 4784; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1430 4784; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
